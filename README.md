@@ -7,7 +7,7 @@ I’m a Junior at Harvard originally from Rome, Italy. I specialize in quantitat
 #### ✈️ [Quantifying the 'Green Premium' in US Aviation](https://github.com/lennardpische/OptimalCarbonPricing)
 ![Status](https://img.shields.io/badge/Status-Completed-success) ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 * **The Question:** Do passengers pay more for flights with lower carbon emissions?
-* **The Tech:** XGBoost Regressor, DB1B & T100 Data, Feature Engineering.
+* **The Tech:** Gradient Boosted Regressor, DB1B & T100 Data, Feature Engineering.
 * **The Result:** Modeled price elasticity regarding carbon efficiency across the US domestic network.
 
 #### 🗳️ [Age & Political Ideology in Europe](https://github.com/lennardpische/age-political-ideology)
