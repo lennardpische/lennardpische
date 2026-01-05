@@ -26,10 +26,6 @@ I’m a Junior at Harvard originally from Rome, Italy. I specialize in quantitat
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
-### 📊 GitHub Stats
-![Lenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennardpische&show_icons=true&theme=minimal)
----
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lennard-pische/)
