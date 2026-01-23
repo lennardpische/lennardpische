@@ -4,6 +4,12 @@ I’m a Junior at Harvard originally from Rome, Italy. I specialize in quantitat
 
 ### Featured Projects
 
+#### 🦅 [FedSentinel: Quantifying Fed "Speak"](https://github.com/lennardpische/FedSentinel)
+![Status](https://img.shields.io/badge/Status-Work_In_Progress-yellow) ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
+* **The Question:** Can AI detect Federal Reserve policy pivots by measuring shifts in language?
+* **The Tech:** BERT Transformers (NLP), Cosine Similarity, Web Scraping (BeautifulSoup).
+* **The Result:** A time-series analysis of "Semantic Drift" in FOMC statements (2000–Present) detecting historical volatility.
+
 #### ✈️ [Quantifying the 'Green Premium' in US Aviation](https://github.com/lennardpische/OptimalCarbonPricing)
 ![Status](https://img.shields.io/badge/Status-Completed-success) ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 * **The Question:** Do passengers pay more for flights with lower carbon emissions?
