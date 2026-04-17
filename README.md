@@ -4,6 +4,12 @@ I’m a Junior at Harvard originally from Rome, Italy. I specialize in quantitat
 
 ### Featured Projects
 
+#### 🎵 [SpotifyParser: An attempt at an in-house song recommendation system](https://github.com/lennardpische/SpotifyParser)
+![Status](https://img.shields.io/badge/Status-Completed-success) ![Python](https://img.shields.io/badge/Made%20with-Python-blue)                                        
+* **The Question:**: Can you build a better music recommendation engine than Spotify using only their own data?
+* **The Tech:** Sentence Transformers (NLP), Cosine Similarity, Spotify Web API (spotipy).                  
+* **The Result:**  A pipeline that accumulates listening history, fetches unseen tracks from your seed artists, and ranks them by text-embedding similarity to your recent plays  (pivoted from audio feature matching after Spotify locked their audio-features endpoint behind a commercial approval wall in late 2024).  
+
 #### 🦅 [FedSentinel: Quantifying Fed "Speak"](https://github.com/lennardpische/FedSentinel)
 ![Status](https://img.shields.io/badge/Status-Work_In_Progress-yellow) ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 * **The Question:** Can AI detect Federal Reserve policy pivots by measuring shifts in language?
