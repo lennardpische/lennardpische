@@ -1,6 +1,9 @@
 # Hi there, I'm Lenny <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 I’m a Junior at Harvard originally from Rome, Italy. I specialize in quantitative Economics and Data Science, and I like applying machine learning models to solve complex market efficiency problems. Also, I am an avid traveller!
+<h1>
+  <img align="right" src="https://komarev.com/ghpvc/?username=lennardpische" alt="GitHub profile views counter">
+</h1>
 
 ### Featured Projects
 
@@ -42,3 +45,11 @@ I’m a Junior at Harvard originally from Rome, Italy. I specialize in quantitat
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lennard-pische/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:lenny_pische@college.harvard.edu)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
